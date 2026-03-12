@@ -12,4 +12,4 @@ fi
 
 # inicia o OpenClaw
 echo "Iniciando OpenClaw..."
-exec openclaw
+exec openclaw gateway
